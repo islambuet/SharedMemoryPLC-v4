@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/*
+!node_modules/st-ethernet-ip/
+build
+logs/
+index.exe
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

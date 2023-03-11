@@ -1,0 +1,17 @@
+{
+  "name": "PLC With Shared Memory",
+  "version": "2.0.0",
+  "description": "npm init --y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Shaiful Islam",
+  "license": "ISC",
+  "dependencies": {
+    "ini": "^3.0.1",
+    "log4js": "^6.6.1",
+    "st-ethernet-ip": "^2.4.8"
+  }
+}
