@@ -4,6 +4,7 @@ node_modules/*
 build
 logs/
 index.exe
+PlcXConnect*
 # Editor directories and files
 .idea
 .vscode
